@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1546890594 source:/home/max/Dokumente/Programmieren/learncpp/6.x/6/main.cpp
+	<iostream>
+	<array>
+	<random>
+	<ctime>
+	"constants.h"
+
+1546890170 /home/max/Dokumente/Programmieren/learncpp/6.x/6/constants.h
+

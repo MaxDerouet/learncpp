@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547501001 source:/home/max/Dokumente/Programmieren/learncpp/8.3/3/main.cpp
+	<iostream>
+	<array>
+	<cassert>
+

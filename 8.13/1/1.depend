@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1548281064 source:/home/max/Dokumente/Programmieren/learncpp/8.13/1/main.cpp
+	"Point3d.h"
+	"Vector3d.h"
+
+1548281605 /home/max/Dokumente/Programmieren/learncpp/8.13/1/Point3d.h
+
+1548281555 /home/max/Dokumente/Programmieren/learncpp/8.13/1/Vector3d.h
+	"Point3d.h"
+
+1548281263 source:/home/max/Dokumente/Programmieren/learncpp/8.13/1/Point3d.cpp
+	<iostream>
+	"Point3d.h"
+	"Vector3d.h"
+
+1548281278 source:/home/max/Dokumente/Programmieren/learncpp/8.13/1/Vector3d.cpp
+	<iostream>
+	"Vector3d.h"
+

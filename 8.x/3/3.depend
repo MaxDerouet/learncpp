@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1549220381 source:/home/max/Dokumente/Programmieren/learncpp/8.x/3/main.cpp
+	<iostream>
+	<string>
+	<array>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1543701141 source:/home/max/Dokumente/Programmieren/learncpp/2.10/4/main.cpp
+	<iostream>
+	"constants.h"
+	"4.h"
+
+1543700213 /home/max/Dokumente/Programmieren/learncpp/2.10/4/constants.h
+
+1543700650 /home/max/Dokumente/Programmieren/learncpp/2.10/4/4.h
+

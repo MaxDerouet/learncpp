@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543755784 source:/home/max/Dokumente/Programmieren/learncpp/3.2/2/main.cpp
+	<iostream>
+	"2.h"
+
+1543755466 /home/max/Dokumente/Programmieren/learncpp/3.2/2/2.h
+

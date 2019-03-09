@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546789963 source:/home/max/Dokumente/Programmieren/learncpp/6.12a/1/main.cpp
+	<iostream>
+	<string.h>
+

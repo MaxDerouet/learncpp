@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543762783 source:/home/max/Dokumente/Programmieren/learncpp/3.7/6/main.cpp
+	<iostream>
+	"6.h"
+	<cmath>
+
+1543761817 /home/max/Dokumente/Programmieren/learncpp/3.7/6/6.h
+
